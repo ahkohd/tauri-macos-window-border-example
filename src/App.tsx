@@ -32,7 +32,7 @@ function App() {
         </button>
 
         <button type="button" onClick={handleChangeBorderColor}>
-          Change border border
+          Change border color
         </button>
       </div>
     </main>
